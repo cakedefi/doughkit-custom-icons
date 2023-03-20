@@ -1,6 +1,6 @@
 {
   "name": "doughkit-custom-icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Icon automation workflow with Figma",
   "main": "dist/doughkit-custom-icons.cjs.js",
   "module": "dist/doughkit-custom-icons.esm.js",
